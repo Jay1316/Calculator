@@ -29,6 +29,7 @@ function equal() {
 
 function percentage() {
   answer.textContent = eval(expression.textContent)/100 + "%"
+  expression.textContent = ''
 }
 
 function execute() {
