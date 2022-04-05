@@ -3,4 +3,7 @@
 A simple calculator built using HTML, CSS and Javascript.
 
 # Preview
-![Alt text](cal.jpg?raw=true "Title")
+<!--   ![Screenshot of the web-app](cal.png) -->
+<p align="center">
+  <img src="cal.png">
+<p>
