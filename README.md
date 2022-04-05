@@ -3,4 +3,4 @@
 A simple calculator built using HTML, CSS and Javascript.
 
 # Preview
-![A screenshot of what the web-app looks like](/assets/images/cal.png)
+![Alt text](relative/path/to/cal.jpg?raw=true "Title")
